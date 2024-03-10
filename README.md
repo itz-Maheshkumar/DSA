@@ -2,6 +2,6 @@
 Data Structures and Algorithms in C++.
 
 ## Algorithms
-[x] - Linear Search
+- [x] Linear Search
 
 ## Data Structures
