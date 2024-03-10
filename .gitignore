@@ -1,8 +1,3 @@
-# Ignore extension less files.
-*
-!*.*
-!*/
-
 # Prerequisites
 *.d
 
@@ -36,5 +31,5 @@
 *.out
 *.app
 
-# Ignore vscode files
-.vscode/
+# Ignore build files
+.build/
