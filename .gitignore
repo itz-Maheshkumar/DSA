@@ -1,3 +1,8 @@
+# Ignore extension less files.
+*
+!*.*
+!*/
+
 # Prerequisites
 *.d
 
@@ -30,3 +35,6 @@
 *.exe
 *.out
 *.app
+
+# Ignore vscode files
+.vscode/
